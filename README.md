@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm MotoYucchi: [illustrator](motoyucchi.work), Programmer, [Audio Engineer](vocanami.com), [Lighting Operator](vocanami.com), and [MMD Artist](vocanami.com).
+## I'm MotoYucchi: [illustrator](https://motoyucchi.work), Programmer, [Audio Engineer](https://vocanami.com), [Lighting Operator](https://vocanami.com), and [MMD Artist](https://vocanami.com).
 
 <!--
 **MotoYucchi/MotoYucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
