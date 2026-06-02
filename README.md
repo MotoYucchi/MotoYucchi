@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm MotoYucchi: [illustrator](https://motoyucchi.work), Programmer, [Audio Engineer](https://vocanami.com), [Lighting Operator](https://vocanami.com), and [MMD Artist](https://vocanami.com).
+### I'm MotoYucchi, a student developer from Japan.
 
 <!--
 **MotoYucchi/MotoYucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+💻 Developer
+🎵 Audio Engineer
+💡 Lighting Technician
+🎬 VJ
+🎨 Illustrator
+🕺 MMD Artist
+
+I enjoy creating both software and live event experiences, combining programming with audiovisual technologies.
+
+## Interests
+
+* Software Development
+* Unity
+* Audio Engineering
+* Stage Lighting
+* Video Projection Systems
+* MikuMikuDance (MMD)
+* VOCALOID Culture
+
+## Featured Experience
+
+### Shonan VocaNami
+
+A VOCALOID virtual live performance presented at a school festival.
+
+Contributed to:
+
+* Audio Engineering
+* Lighting Operation
+* Video Projection Systems
+* MMD Production
+
+## Currently Learning
+
+* Python
+* C#
+* Unity
+* Git & GitHub
+* Linux
